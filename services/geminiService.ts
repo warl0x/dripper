@@ -92,7 +92,7 @@ export const stylizeImage = async (base64Image: string, mimeType: string, prompt
             },
           },
           {
-            text: prompt,
+            text: `${prompt} Your output must be ONLY the edited image file. Do not include any text, descriptions, or explanations in your response. Just the image.`,
           },
         ],
       },

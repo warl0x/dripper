@@ -504,7 +504,7 @@ const App: React.FC = () => {
       <header className="text-center my-10">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight">
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
-            Graffiti Art Stylizer
+            GRAF DOODLE
           </span>
         </h1>
         <p className="mt-4 text-lg text-gray-400 max-w-2xl mx-auto">
